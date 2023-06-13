@@ -53,7 +53,7 @@ ScrollReveal().reveal(".home-content p, .home-conten1 p, .about-content", { orig
 
 /* skiftende tekst */
 const typed = new Typed(".skift-tekst", {
-  strings: ["Studerende", "Fucking Dope", "Sindssyg Lækker"],
+  strings: ["Studerende", "MultiMedieDesigner"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
